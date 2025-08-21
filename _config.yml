@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Saumya Shah"
-  avatar           : "IMG_3499.jpg"
+  avatar           : "IMG_3499.JPG"
   bio              : "Physics PhD candidate"
   location         : "Vienna"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LWuCpR8AAAAJ&hl=en"
-  email            :
+  email            :  "saumyashah02@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
